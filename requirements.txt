@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+PyPDF2
+python-docx
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+aiosqlite
+pydantic
+python-dotenv
+tenacity
+structlog
